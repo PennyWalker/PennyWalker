@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I'm a keeper (for football) & keen dragonboater
 
 -- Penny
-[![Penny's github stats](https://github-readme-stats.vercel.app/api?username=PennyWaker&theme=dark)](https://github.com/PennyWaker/github-readme-stats)
+[![Penny's github stats](https://github-readme-stats.vercel.app/api?username=PennyWalker&theme=dark)](https://github.com/PennyWalker/github-readme-stats)
